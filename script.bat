@@ -1,0 +1,1 @@
+java -Xmx512m -jar %1/Jmol.jar %2 --write JPEG:%3
